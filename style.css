@@ -4,3 +4,10 @@ Header Area CSS
 .header-area a:hover {
   color: #000;
 }
+
+/* 
+Main Area CSS
+*/
+.carousel-caption {
+  padding: 15.25rem 0;
+}
